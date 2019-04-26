@@ -4,4 +4,5 @@ Install the VersionOne JavaScript SDK
 
 Install the sdk from the npm registry
 
-`npm install -g v1sdk`{{execute}}
+`npm install v1sdk`{{execute}}
+`npm install axios`{{execute}}
