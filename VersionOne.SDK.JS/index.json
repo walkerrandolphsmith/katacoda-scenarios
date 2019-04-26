@@ -1,0 +1,36 @@
+{
+  "title": "VersionOne JavaScript SDK Scenario",
+  "description": "Learn to interface with the VersionOne APIs with the JavaScript API",
+  "difficulty": "beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1 - Install the SDK",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Run Node",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Authenticate",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "node6"
+  }
+}
